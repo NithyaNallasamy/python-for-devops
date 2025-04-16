@@ -107,6 +107,9 @@ python -m venv myenv
 # Activate the virtual environment (on Windows)
 myenv\Scripts\activate
 
+# Activate the virtual environment (on Windows while Gitbash)
+. myenv/Scripts/activate
+
 # Activate the virtual environment (on macOS/Linux)
 source myenv/bin/activate
 ```
